@@ -1,0 +1,28 @@
+{
+  "name": "factorize",
+  "version": "0.0.1",
+  "description": "A utility for adding Factory Pattern support to ES5+ classes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allain/factorize.git"
+  },
+  "keywords": [
+    "factory",
+    "constructor"
+  ],
+  "author": "Allain Lalonde <allain.lalonde@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/allain/factorize/issues"
+  },
+  "homepage": "https://github.com/allain/factorize#readme",
+  "devDependencies": {
+    "babel": "^5.8.23",
+    "tap-dot": "^1.0.0",
+    "tape": "^4.2.1"
+  }
+}
